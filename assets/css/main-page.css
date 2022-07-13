@@ -423,6 +423,17 @@ a {
     display: none;
   }
 
+  .introduction .presentation-column--right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .introduction .presentation-welcome {
+    text-align: center;
+  }
+
   .introduction .presentation-welcome {
     margin-top: 80px;
   }
